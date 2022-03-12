@@ -1,4 +1,4 @@
-# Video Natural langueage image search algorythm
+# Video Natural langueage image search algorithm
 ### Code for Natural language search tool for YouTube videos. 
 
 I worked on this project with MSBA Classmates: Brett Bartol, JT Flume, Jackson Hittner, and Sam LaPlatney.
