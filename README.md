@@ -7,7 +7,7 @@ This project allows you to search a YouTube video for specific frames with natur
 
 Here is a link to a Medium article which will explain this in further detail:
 
-In this repo you will find a PPT presentaiton which will give an overview of the project and its application. (a YouTube link is here: ) 
+In this repo you will find a PPT presentaiton which will give an overview of the project and its application.
 
 This project works with CLIP a pretrained neural network which creates vectors for images which you can match similarity to your desired search term. 
 
