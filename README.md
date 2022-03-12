@@ -3,9 +3,13 @@
 
 I worked on this project with MSBA Classmates: Brett Bartol, JT Flume, Jackson Hittner, and Sam LaPlatney.
 
+This project allows you to search a YouTube video for specific frames with natural language search terms. Feel free to use any video and any search term. With a higher "N" the video will run faster, but might skip peices you require. 
+
 Here is a link to a Medium article which will explain this in further detail:
 
 In this repo you will find a PPT presentaiton which will give an overview of the project and its application. (a YouTube link is here: ) 
+
+This project works with CLIP a pretrained neural network which creates vectors for images which you can match similarity to your desired search term. 
 
 Tere are multiple things you are able to change your self in these programs.
 
