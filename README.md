@@ -5,7 +5,7 @@ I worked on this project with MSBA Classmates: Brett Bartol, JT Flume, Jackson H
 
 This project allows you to search a YouTube video for specific frames with natural language search terms. Feel free to use any video and any search term. With a higher "N" the video will run faster, but might skip peices you require. 
 
-Here is a link to a [Medium](https://medium.com/@garrett.sooter/using-natural-language-queries-to-search-videos-and-applications-21f7154303c2) article which will explain this in further detail:
+Here is a link to a [Medium](https://medium.com/@garrett.sooter/using-natural-language-queries-to-search-videos-and-applications-21f7154303c2) article which will explain this in further detail
 
 In this repo you will find a PPT presentaiton which will give an overview of the project and its application.
 
